@@ -1,2 +1,2 @@
-# bitOffer-official-api-docs
+# BitOffer-official-api-docs
 Official Documentation for the BitOffer APIs and Streams
